@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+     uri: https://myconfig.mycompany.com
+     username: user
+     password: secret
